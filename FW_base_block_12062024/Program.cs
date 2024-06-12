@@ -4,6 +4,8 @@
 лучше обойтись исключительно массивами.*/
 
 string[] arr_1 = new string[5] {"1234", "1567", "-2", "computer science", ":-)"};
+//string[] arr_1 = new string[4] {"Hello", "2", "world", ":-)"};
+//string[] arr_1 = new string[3] {"Russia", "Denmark", "Kazan"};
 string[] arr_2 = new string[arr_1.Length];
 
 
